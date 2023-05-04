@@ -1,0 +1,22 @@
+{
+   
+    "menu": [ {"food name": "Oysters on the Half Shell",
+                   "price" :"$17.00"}, 
+                 {"food name": "Hamachi Crudo",
+                   "price" :"＄16.00"},
+                    
+                 {"food name": "Butternut Squash Velouté",
+                   "price" :"$14.00"},
+                 {"food name": "Beef Carpaccio",
+                   "price" :"$16.00"},
+                 {"food name": "Gem Lettuce and Radicchio",
+                   "price" :"$12.00"},
+                 {"food name": "Burrata and Persimmon",
+                   "price" :"$17.00"},
+                 {"food name": "Roasted Kabocha Squash",
+                   "price" :"$15.00"},
+                 {"food name": "Crispy Octopus",
+                   "price" :"$25.00"}
+                
+                ]
+    }

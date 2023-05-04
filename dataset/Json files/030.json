@@ -1,0 +1,35 @@
+{
+   
+    "menu": [ {"food name": "Rhubarb",
+                   "price" :"$16.99"}, 
+                 {"food name": "Blueberry",
+                   "price" :"$16.99"},
+                    
+                 {"food name": "Cranberry",
+                   "price" :"$16.99"},
+                 {"food name": "Passion Fruit",
+                   "price" :"$16.99"},
+                 {"food name": "Cooper's Hawk Ice Wine",
+                   "price" :"$29.99"},
+                 {"food name": "Nightjar",
+                   "price" :"$24.99"},
+                 {"food name": "Winter White",
+                   "price" :"$14.99"},
+                 {"food name": "magnum (1.5 liter)",
+                   "price" :"$45.99"},
+                
+                 {"food name": "double magnum (3 liter)",
+                   "price" :"$89.99"},
+                
+                 {"food name": "imperial (6 liter)",
+                   "price" :"$179.99"},
+                
+                 {"food name": "Winter Red",
+                   "price" :"$14.99"},
+                 {"food name": "salmanazar (9 liter)",
+                   "price" :"$274.99"}
+                
+                 
+                 
+                ]
+    }

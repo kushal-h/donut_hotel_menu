@@ -1,0 +1,22 @@
+{
+   
+    "menu": [ {"food name": "Bubbly Fizz",
+                   "price" :"$8.00"}, 
+                 {"food name": "Mojitos",
+                   "price" :"$9.00"},
+                    
+                 {"food name": "Serves 2",
+                   "price" :"$24.00"},
+                 {"food name": "A Crime of Pure Passion",
+                   "price" :"$11.00"},
+                 {"food name": "Salt Air Margarita",
+                   "price" :"$10.00"},
+                 {"food name": "Richmond Mule",
+                   "price" :"$10.00"},
+                 {"food name": "The Expat",
+                   "price" :"$10.00"},
+                 {"food name": "Bourbon Basil Smash",
+                   "price" :"$10.00"}
+                
+                ]
+    }

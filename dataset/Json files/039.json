@@ -1,0 +1,35 @@
+{
+   
+    "menu": [ {"food name": "Ahi Tuna",
+                   "price" :"$16.00"}, 
+                 {"food name": "Mushroom Nantua",
+                   "price" :"$18.00"},
+                    
+                 {"food name": "Crab Cake",
+                   "price" :"$18.00"},
+                 {"food name": "Escargot",
+                   "price" :"$18.00"},
+                 {"food name": "Shrimp Cocktail",
+                   "price" :"$16.00"},
+                 {"food name": "Fried Green Tomatoes",
+                   "price" :"$15.00"},
+                 {"food name": "Burrata",
+                   "price" :"$14.00"},
+                 {"food name": "Meatballs",
+                   "price" :"$12.00"},
+                
+                 {"food name": "Coconut Shrimp",
+                   "price" :"$14.00"},
+                
+                 {"food name": "Calamari",
+                    "price": "$14.00"},
+                
+                 {"food name": "Fried Oysters",
+                   "price" :"$18.00"},
+                 {"food name": "Ceviche",
+                   "price" :"$14.00"}
+                
+                 
+                 
+                ]
+    }

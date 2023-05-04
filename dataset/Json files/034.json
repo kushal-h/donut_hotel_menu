@@ -1,0 +1,25 @@
+{
+   
+    "menu": [ {"food name": "Crab Corn & Miso Soup",
+                   "price" :"$5.95"}, 
+                 {"food name": "Kale Caesar",
+                   "price" :"$8.95"},
+                    
+                 {"food name": "Mixed Greens",
+                   "price" :"$7.95"},
+                 {"food name": "Burrata",
+                   "price" :"$12.95"},
+                 {"food name": "Angus Burger",
+                   "price" :"$12.95"},
+                 {"food name": "Fried Grouper",
+                   "price" :"$15.95"},
+                 {"food name": "ECP Angus Burger",
+                   "price" :"$14.95"},
+                 {"food name": "Maine Lobster Roll",
+                   "price" :"$28.95"}
+                
+                
+                 
+                 
+                ]
+    }

@@ -1,0 +1,31 @@
+{
+   
+    "menu": [ {"food name": "3 Amigos",
+                   "price" :"$15.95"}, 
+                 {"food name": "Traditional Queso",
+                   "price" :"$10.45"},
+                    
+                 {"food name": "Guacamole Fresco",
+                   "price" :"$8.95"},
+                 {"food name": "Unlimited Chips & Salsa",
+                   "price" :"$3.95"},
+                 {"food name": "Carne Asada Burrito",
+                   "price" :"$15.95"},
+                 {"food name": "Chicken Enchiladas",
+                   "price" :"$18.95"},
+                 {"food name": "Casa Crunch Burrito",
+                   "price" :"$12.95"},
+                 {"food name": "Baja Fish Burrito",
+                   "price" :"$14.95"},
+                 {"food name": "Adobo Chicken",
+                   "price" :"$13.95"},
+                 {"food name": "Beef Barbacoa",
+                   "price" :"$15.95"},
+                 {"food name": "Shrimp",
+                   "price" :"$14.95"},
+                 {"food name": "Portobello",
+                   "price" :"$13.95"}
+                 
+                 
+                ]
+    }

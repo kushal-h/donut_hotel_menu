@@ -1,0 +1,24 @@
+{
+   
+    "menu": [ {"food name": "Petite Greens Caesar",
+                   "price" :"$14.00"}, 
+                 {"food name": "Lamb Lollipops*",
+                   "price" :"$23.00"},
+                    
+                 {"food name": "Roasted Sweet Potato Salad",
+                   "price" :"$15.00"},
+                 {"food name": "Roasted Virginia Oysters on the Half Shell",
+                   "price" :"$18.00"},
+                 {"food name": "Cast Iron Baked Pimento Cheese & Collards Dip",
+                   "price" :"$16.00"},
+                 {"food name": "Appalachian Cheeses In Three Styles",
+                   "price" :"$18.00"},
+                 {"food name": "White Wine Steamed Mussels",
+                   "price" :"$17.00"},
+                 {"food name": "Charcuterie",
+                   "price" :"$22.00"}
+                
+                 
+                 
+                ]
+    }

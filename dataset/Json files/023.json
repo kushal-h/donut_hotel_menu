@@ -1,0 +1,40 @@
+{
+   
+    "menu": [ {"food name": "Chicken",
+                   "price" :"$18.95"}, 
+                 {"food name": "Carne Asada",
+                   "price" :"$22.95"},
+                    
+                 {"food name": "Shrimp",
+                   "price" :"$19.95"},
+                 {"food name": "Mexican Street Corn",
+                   "price" :"$5.95"},
+                 {"food name": "Rice & Beans",
+                   "price" :"$4.95"},
+                 {"food name": "Sweet Plantains",
+                   "price" :"$4.95"},
+                 {"food name": "Avocado Caesar Salad",
+                   "price" :"$6.95"},
+                 {"food name": "Mexican Rice",
+                   "price" :"$4.95"},
+                 {"food name": "Escabeche",
+                   "price" :"$3.95"},
+                 {"food name": "Black Beans",
+                   "price" :"$4.95"},
+                 {"food name": "French Fries",
+                   "price" :"$4.95"},
+                 {"food name": "Chocolate Stuffed Churros",
+                   "price" :"$8.95"},
+                 
+                 {"food name": "Fried Ice Cream",
+                   "price" :"$7.95"},
+                 
+                 {"food name": "Tres Leches",
+                   "price" :"$7.95"},
+                 
+                 {"food name": "Capirotada",
+                   "price" :"$7.95"}
+                 
+                 
+                ]
+    }

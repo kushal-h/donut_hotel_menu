@@ -1,0 +1,35 @@
+{
+   
+    "menu": [ {"food name": "Fish Tacos",
+                   "price" :"$18.95"}, 
+                 {"food name": "Clam Pasta",
+                   "price" :"$18.95"},
+                    
+                 {"food name": "Scallops",
+                   "price" :"$36.95"},
+                 {"food name": "Lobster Pasta",
+                   "price" :"$29.95"},
+                 {"food name": "Steak Frites",
+                   "price" :"$27.95"},
+                 {"food name": "Blackened Mahi",
+                   "price" :"$25.95"},
+                 {"food name": "6oz Filet",
+                   "price" :"$28.95"},
+                 {"food name": "Seared Salmon",
+                   "price" :"$24.95"},
+                
+                 {"food name": "14oz Ribeye",
+                   "price" :"$38.95"},
+                
+                 {"food name": "Roasted Rockfish",
+                    "price": "$28.95"},
+                
+                 {"food name": "Surf & Turf",
+                   "price" :"$49.95"},
+                 {"food name": "Vegetarian Pasta",
+                   "price" :"$16.65"}
+                
+                 
+                 
+                ]
+    }

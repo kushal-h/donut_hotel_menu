@@ -1,0 +1,21 @@
+{
+   
+    "menu": [ {"food name": "Seafood Dip & Chips",
+                   "price" :"$79.95"}, 
+                 {"food name": "Wingettes",
+                   "price" :"$0.80"},
+                    
+                 {"food name": "Buffalo Chicken Dip",
+                   "price" :"$59.95"},
+                 {"food name": "Chips & Salsa",
+                   "price" :"$39.95"},
+                 {"food name": "Supper",
+                   "price" :"$14.95"},
+                 {"food name": "Mama Said Shut Yo Mouf & Eat!",
+                   "price" :"$18.95"},
+                 {"food name": "Sunday Dinner",
+                   "price" :"$16.95"}
+                 
+                 
+                ]
+    }

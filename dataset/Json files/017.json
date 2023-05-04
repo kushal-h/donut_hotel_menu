@@ -1,0 +1,30 @@
+{
+   
+    "menu": [ {"food name": "Shut Yo Mouf Burger",
+                   "price" :"$10.95"}, 
+                 {"food name": "Bologna Burger",
+                   "price" :"$10.95"},
+                    
+                 {"food name": "BBQ Triple Bacon Burger",
+                   "price" :"$11.95"},
+                 {"food name": "Philly Cheesesteak",
+                   "price" :"$10.95"},
+                 {"food name": "The Brunch Burger",
+                   "price" :"$11.95"},
+                 {"food name": "SYM Chicken Sandwich",
+                   "price" :"$10.95"},
+                 {"food name": "Chicken And Waffles",
+                   "price" :"$7.95"},
+                 {"food name": "Chicken Tender Basket (4))",
+                   "price" :"$8.95"},
+                 {"food name": "Wing Lunch (3)",
+                   "price" :"$9.95"},
+                 {"food name": "Bologna Burger",
+                   "price" :"$7.95"},
+                 {"food name": "Fried Whiting Sandwich",
+                   "price" :"$7.95"},
+                 {"food name": "Pulled Pork",
+                   "price" :"$8.95"}
+                 
+                ]
+    }

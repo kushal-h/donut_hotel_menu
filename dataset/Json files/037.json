@@ -1,0 +1,16 @@
+{
+   
+    "menu": [ {"food name": "Mixed Greens",
+                   "price" :"$4.00"}, 
+                 {"food name": "ECP Angus Burger",
+                   "price" :"$7.00"},
+                    
+                 {"food name": "Angus Burger",
+                   "price" :"$6.00"},
+                 {"food name": "Linguine Pasta",
+                   "price" :"$6.00"},
+                 {"food name": "Fish & Chips",
+                   "price" :"$8.00"}
+                 
+                ]
+    }

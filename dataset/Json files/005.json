@@ -1,0 +1,20 @@
+{
+   
+    "menu": [ {"food name": "Cream of Tomato",
+                   "price" :"$8.00"},
+                 {"food name": "Veg Manchow",
+                   "price" :"$8.00"},
+                    
+                 {"food name": "Chicken Manchow",
+                   "price" :"$8.00"},
+                 {"food name": "Masala Fries",
+                   "price" :"$8.00"},
+                 {"food name": "Chicken Sukka (Roast)",
+                   "price" :"$16.00"},
+                 {"food name": "Mix Veg Pakora",
+                   "price" :"$12.00"},
+                 {"food name": "Masala Fried Fish",
+                   "price" :"$16.00"}
+                 
+                ]
+    }

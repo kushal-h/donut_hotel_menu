@@ -1,0 +1,10 @@
+{
+    "hotel": "keshav hotel",
+    "menu": [ {"food name": "bread butter toast",
+                   "price" :"20"},
+                 {"food name": "corn flakes with milk",
+                   "price" :"30"},
+                    
+                 {"food name": "thandal",
+                   "price" :"50"}]
+    }

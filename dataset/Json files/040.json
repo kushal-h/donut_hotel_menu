@@ -1,0 +1,25 @@
+{
+   
+    "menu": [ {"food name": "Jumbo Lump Crab Cakes",
+                   "price" :"$38.00"}, 
+                 {"food name": "Seafood Pasta",
+                   "price" :"$38.00"},
+                    
+                 {"food name": "Scottish Salmon",
+                   "price" :"$35.00"},
+                 {"food name": "Cajun Catfish",
+                   "price" :"$24.00"},
+                 {"food name": "Sea Bass - Seasonal",
+                   "price" :"$45.00"},
+                 {"food name": "Tobacco Company Meatloaf",
+                   "price" :"$22.00"},
+                 {"food name": "Diver Scallops",
+                   "price" :"$48.00"},
+                 {"food name": "Vegetable Lasagna",
+                   "price" :"$19.00"},
+                
+                 {"food name": "Company Chicken",
+                   "price" :"$26.00"}
+                
+                ]
+    }

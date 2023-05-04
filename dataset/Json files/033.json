@@ -1,0 +1,23 @@
+{
+   
+    "menu": [ {"food name": "SWest Coast",
+                   "price" :"$12.95"}, 
+                 {"food name": "Rainbow",
+                   "price" :"$14.95"},
+                    
+                 {"food name": "East Coast",
+                   "price" :"$14.95"},
+                 {"food name": "Crunchy",
+                   "price" :"$11.95"},
+                 {"food name": "Spicy Tuna",
+                   "price" :"$9.95"},
+                 {"food name": "Vegetarian",
+                   "price" :"$8.95"},
+                 {"food name": "California",
+                   "price" :"$7.95"}
+                 
+                
+                 
+                 
+                ]
+    }

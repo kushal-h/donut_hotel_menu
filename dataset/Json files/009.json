@@ -1,0 +1,19 @@
+{
+   
+    "menu": [ {"food name": "Veg Fried Rice",
+                   "price" :"$16.00"}, 
+                 {"food name": "Veg. Hakka Noodles",
+                   "price" :"$16.00"},
+                    
+                 {"food name": "Egg Fried Rice",
+                   "price" :"$16.00"},
+                 {"food name": "Egg Hakka Noodles",
+                   "price" :"$16.00"},
+                 {"food name": "Chicken Fried Rice",
+                   "price" :"$18.00"},
+                 {"food name": "Chicken Hakka Noodles",
+                   "price" :"$18.00"}
+                 
+                 
+                ]
+    }

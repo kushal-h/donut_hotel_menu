@@ -1,0 +1,15 @@
+{
+   
+    "menu": [ {"food name": "Palak Chaat",
+                   "price" :"$12.00"},
+                 {"food name": "Samosa Chaat",
+                   "price" :"$13.00"},
+                    
+                 {"food name": "Papdi Chat",
+                   "price" :"$11.00"},
+                 {"food name": "Sweet Potato Chat",
+                   "price" :"$13.00"}
+                 
+                 
+                ]
+    }

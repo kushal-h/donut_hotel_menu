@@ -1,0 +1,22 @@
+{
+    
+    "menu": [ {"food name": "Continental Breakfast",
+                   "price" :"10.00"} ,
+                 {"food name": "Eggs any Style",
+                   "price" :"16.00"},
+                    
+                 {"food name": "Fresh Fruit Plate",
+                   "price" :"11.00"},
+                 {"food name": "Omelette",
+                   "price" :"12.00"},
+                 {"food name": "Yogurt Parfait",
+                   "price" :"10.00"},
+                 {"food name": "Croque Madame",
+                   "price" :"18.00"},
+                 {"food name": "Steel Cut Oatmeal",
+                   "price" :"9.00"},
+                 {"food name": "Pancakes",
+                   "price" :"11.00"}
+                
+                ]
+    }

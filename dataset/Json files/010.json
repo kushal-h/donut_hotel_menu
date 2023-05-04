@@ -1,0 +1,24 @@
+{
+   
+    "menu": [ {"food name": "Plain Naan",
+                   "price" :"$3.00"},
+                 {"food name": "Tandoori Roti",
+                   "price" :"$4.00"},
+                    
+                 {"food name": "Garlic Naan",
+                   "price" :"$4.00"},
+                 {"food name": "Onion Kulcha",
+                   "price" :"$5.00"},
+                 {"food name": "Bullet Naan (Spicy)",
+                   "price" :"$4.00"},
+                 {"food name": "Peshwari Naan with Cheese",
+                   "price" :"$5.00"},
+                 {"food name": "Truffle Naan",
+                   "price" :"$4.00"},
+                 {"food name": "Cheese and Garlic Naan",
+                   "price" :"$22.00"},
+                 {"food name": "Butter Naan",
+                   "price" :"$4.00"}
+                 
+                ]
+    }

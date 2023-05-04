@@ -1,0 +1,25 @@
+{
+   
+    "menu": [ {"food name": "Jerk Chicken",
+                   "price" :"$15.00"}, 
+                 {"food name": "Aloha Pineapple Boat",
+                   "price" :"$16.00"},
+                    
+                 {"food name": "Island Style Shrimp & Grits",
+                   "price" :"$16.00"},
+                 {"food name": "Teriyaki Glazed Salmon",
+                   "price" :"$18.00"},
+                 {"food name": "Big Wave Fish & Chips",
+                   "price" :"$15.00"},
+                 {"food name": "Kids Chicken Nuggets",
+                   "price" :"$5.00"},
+                 {"food name": "Kids Popcorn Shrimp",
+                   "price" :"$6.00"},
+                 {"food name": "Pineapple Upside Down Cake",
+                   "price" :"$6.00"},
+                 {"food name": "Coco Loco Cookie",
+                   "price" :"$7.00"}
+                 
+                 
+                ]
+    }

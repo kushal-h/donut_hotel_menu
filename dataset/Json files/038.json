@@ -1,0 +1,25 @@
+{
+   
+    "menu": [ {"food name": "House Donut",
+                   "price" :"$10.95"}, 
+                 {"food name": "Chocolate Lava Cake",
+                   "price" :"$11.95"},
+                    
+                 {"food name": "Gelato & Sorbets",
+                   "price" :"$6.95"},
+                 {"food name": "Six Grapes Ruby Port",
+                   "price" :"$10.00"},
+                 {"food name": "Henriques & Henriques Generoso Doce Madeira",
+                   "price" :"$8.00"},
+                 {"food name": "Smith Woodhouse Ruby Port",
+                   "price" :"$12.00"},
+                 {"food name": "Henriques & Henriques Seco Especial Madeira",
+                   "price" :"$8.00"},
+                 {"food name": "Warres Otima 10yr Tawny",
+                   "price" :"$10.00"},
+                
+                 {"food name": "Sandeman 20yr Tawny",
+                   "price" :"$14.00"}
+                
+                ]
+    }

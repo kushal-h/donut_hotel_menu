@@ -1,0 +1,35 @@
+{
+   
+    "menu": [ {"food name": "Shrimp Cocktail",
+                   "price" :"$12.95"}, 
+                 {"food name": "Truffle Parmesan Fries^",
+                   "price" :"$8.95"},
+                    
+                 {"food name": "Featured Oysters",
+                   "price" :"$12.95"},
+                 {"food name": "Octopus",
+                   "price" :"$12.95"},
+                 {"food name": "Tuna Tacos",
+                   "price" :"$12.95"},
+                 {"food name": "Salmon Sashimi",
+                   "price" :"$10.95"},
+                 {"food name": "Calamari",
+                   "price" :"$11.95"},
+                 {"food name": "Fried Oysters",
+                   "price" :"$16.95"},
+                
+                 {"food name": "Grilled Oysters",
+                   "price" :"$12.95"},
+                
+                 {"food name": "PEI Mussels",
+                    "price": "$11.95"},
+                
+                 {"food name": "Tuna Carpaccio",
+                   "price" :"$15.95"},
+                 {"food name": "Meat & Cheese Board",
+                   "price" :"$24.95"}
+                
+                 
+                 
+                ]
+    }

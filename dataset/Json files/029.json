@@ -1,0 +1,33 @@
+{
+   
+    "menu": [ {"food name": "Tempranillo",
+                   "price" :"$26.99"}, 
+                 {"food name": "Shiraz",
+                   "price" :"$29.99"},
+                    
+                 {"food name": "Super Tuscan",
+                   "price" :"$27.99"},
+                 {"food name": "Sweet Red",
+                   "price" :"$17.99"},
+                 {"food name": "Vin Chocolat Noir",
+                   "price" :"$16.99"},
+                 {"food name": "Romance Red",
+                   "price" :"$17.99"},
+                 {"food name": "Vin Chocolat Almond",
+                   "price" :"$16.99"},
+                 {"food name": "White Sangria",
+                   "price" :"$16.99"},
+                
+                 {"food name": "Blood Orange Pineapple Bubbly Sangria",
+                   "price" :"$17.99"},
+                
+                 {"food name": "Red Sangria",
+                   "price" :"$16.99"},
+                
+                 {"food name": "Blue­ber­ry Açaí Bubbly Sangria",
+                   "price" :"$17.99"}
+                
+                 
+                 
+                ]
+    }

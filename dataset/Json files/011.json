@@ -1,0 +1,26 @@
+{
+   
+    "menu": [ {"food name": "Dal Tadka",
+                   "price" :"$12.00"}, 
+                 {"food name": "Veg Chettinad",
+                   "price" :"$16.00"},
+                    
+                 {"food name": "Chole Masala",
+                   "price" :"$14.00"},
+                 {"food name": "Palak Paneer",
+                   "price" :"$18.00"},
+                 {"food name": "Chole Saag",
+                   "price" :"$14.00"},
+                 {"food name": "Paneer Tikka Masala",
+                   "price" :"$18.00"},
+                 {"food name": "Aloo Gobhi",
+                   "price" :"$14.00"},
+                 {"food name": "Paneer Kurchan",
+                   "price" :"$18.00"},
+                 {"food name": "Aloo Palak",
+                   "price" :"$4.00"},
+                 {"food name": "Kadai Paneer",
+                   "price" :"$18.00"}
+                 
+                ]
+    }

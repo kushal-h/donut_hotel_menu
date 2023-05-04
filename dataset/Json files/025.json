@@ -1,0 +1,29 @@
+{
+   
+    "menu": [ {"food name": "Adriana's Cheesecake",
+                   "price" :"$12.00"}, 
+                 {"food name": "Corn Cake Crumble",
+                   "price" :"$12.00"},
+                    
+                 {"food name": "Strawberry Dream",
+                   "price" :"$14.00"},
+                 {"food name": "Espresso Martini",
+                   "price" :"$14.00"},
+                 {"food name": "Lolita's 75",
+                   "price" :"$13.00"},
+                 {"food name": "Milpa",
+                   "price" :"$14.00"},
+                 {"food name": "MA Cherie",
+                   "price" :"$14.00"},
+                 {"food name": "Bacaro, Friuli Pinot Grigio",
+                   "price" :"$8.00"},
+                
+                 {"food name": "Villa Maria, Sauvignon Blanc Private Bin Marlborough",
+                   "price" :"$9.0"},
+                
+                 {"food name": "Vaña Cabos, Felino Chardonnay Mendoza",
+                   "price" :"$11.00"}
+                
+                 
+                ]
+    }

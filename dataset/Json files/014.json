@@ -1,0 +1,30 @@
+{
+   
+    "menu": [ {"food name": "Mac & Cheese",
+                   "price" :"$6.00"}, 
+                 {"food name": "Chicken Burger with Fries",
+                   "price" :"$12.00"},
+                    
+                 {"food name": "Cauliflower Puree",
+                   "price" :"$8.00"},
+                 {"food name": "Pizza Margarita",
+                   "price" :"$10.00"},
+                 {"food name": "Veg Burger with Fries",
+                   "price" :"$10.00"},
+                 {"food name": "Pepperoni Pizza",
+                   "price" :"$10.00"},
+                 {"food name": "Chicken Boneless Tenders",
+                   "price" :"$8.00"},
+                 {"food name": "Combo Fried Rice (Egg & Chicken)",
+                   "price" :"$12.00"},
+                 {"food name": "Gulab Jamun with Ice Cream",
+                   "price" :"$8.00"},
+                 {"food name": "Gajar Halwa (Carrot Pudding)",
+                   "price" :"$8.00"},
+                 {"food name": "Mango Cake",
+                   "price" :"$8.00"},
+                 {"food name": "Rasmalai (Creamy Dumplings)",
+                   "price" :"$8.00"}
+                 
+                ]
+    }

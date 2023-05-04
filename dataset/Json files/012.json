@@ -1,0 +1,26 @@
+{
+   
+    "menu": [ {"food name": "Chicken Saag",
+                   "price" :"$18.00"}, 
+                 {"food name": "Gongura Chicken Curry",
+                   "price" :"$18.00"},
+                    
+                 {"food name": "Chicken Tikka Masala",
+                   "price" :"$18.00"},
+                 {"food name": "Lamb Saag",
+                   "price" :"$20.00"},
+                 {"food name": "Chicken Korma",
+                   "price" :"$18.00"},
+                 {"food name": "Lamb Rogan Josh",
+                   "price" :"$20.00"},
+                 {"food name": "Chicken Chettinad",
+                   "price" :"$18.00"},
+                 {"food name": "Lamb Korma",
+                   "price" :"$20.00"},
+                 {"food name": "Kadai Chicken",
+                   "price" :"$18.00"},
+                 {"food name": "Kashmiri Lamb Curry",
+                   "price" :"$20.00"}
+                 
+                ]
+    }

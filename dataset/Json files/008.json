@@ -1,0 +1,22 @@
+{
+   
+    "menu": [ {"food name": "Paneer Malai Tikka",
+                   "price" :"$18.00"},
+                 {"food name": "Shrimp Tikka",
+                   "price" :"$18.00"},
+                    
+                 {"food name": "Nawabi Chicken",
+                   "price" :"$18.00"},
+                 {"food name": "Fish Tikka",
+                   "price" :"$20.00"},
+                 {"food name": "Afghani Chicken",
+                   "price" :"$20.00"},
+                 {"food name": "Lamb Chops",
+                   "price" :"$22.00"},
+                 {"food name": "Chicken Tikka",
+                   "price" :"$20.00"},
+                 {"food name": "Tandoori Fish",
+                   "price" :"$22.00"}
+                 
+                ]
+    }

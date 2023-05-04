@@ -1,0 +1,29 @@
+{
+   
+    "menu": [ {"food name": "Garlic Shrimp",
+                   "price" :"$12.00"}, 
+                 {"food name": "Coconut Shrimp",
+                   "price" :"$12.00"},
+                    
+                 {"food name": "Old Bay Shrimp",
+                   "price" :"$12.00"},
+                 {"food name": "Jerk Shrimp",
+                   "price" :"$12.00"},
+                 {"food name": "Poke Nachos",
+                   "price" :"$11.00"},
+                 {"food name": "Dirty Fries",
+                   "price" :"$12.00"},
+                 {"food name": "Mango Habanero Chicken Wings",
+                   "price" :"$10.00"},
+                 {"food name": "Conch Fritters",
+                   "price" :"$12.00"},
+                 {"food name": "Drunken Mussels",
+                   "price" :"$12.00"},
+                 {"food name": "Cuban Spring Rolls",
+                   "price" :"$9.00"},
+                 {"food name": "Blistered Shishito Peppers",
+                   "price" :"$9.00"}
+                 
+                 
+                ]
+    }

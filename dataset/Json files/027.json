@@ -1,0 +1,29 @@
+{
+   
+    "menu": [ {"food name": "Sauvignon Blanc",
+                   "price" :"$19.99"}, 
+                 {"food name": "Cooper's Hawk White",
+                   "price" :"$17.99"},
+                    
+                 {"food name": "Pinot Gris",
+                   "price" :"$18.99"},
+                 {"food name": "Riesling",
+                   "price" :"$19.99"},
+                 {"food name": "Unoaked Chardonnay",
+                   "price" :"$18.99"},
+                 {"food name": "Gewürztraminer",
+                   "price" :"$18.99"},
+                 {"food name": "Chardonnay",
+                   "price" :"$19.99"},
+                 {"food name": "Moscato",
+                   "price" :"$18.99"},
+                
+                 {"food name": "Cooper's Hawk Lux Chardonnay",
+                   "price" :"$29.99"},
+                
+                 {"food name": "Rosé",
+                   "price" :"$20.99"}
+                
+                 
+                ]
+    }

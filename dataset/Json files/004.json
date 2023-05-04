@@ -1,0 +1,22 @@
+{
+   
+    "menu": [ {"food name": "1 Dozen Boathouse Oysters*",
+                   "price" :"$30.00"},
+                 {"food name": "Jumbo Shrimp Cocktail",
+                   "price" :"＄16.00"},
+                    
+                 {"food name": "1/2 Dozen Boathouse Oysters*",
+                   "price" :"$15.00"},
+                 {"food name": "Chilled Seafood Tray*",
+                   "price" :"$75.00"},
+                 {"food name": "Crab & Artichoke Dip",
+                   "price" :"$14.00"},
+                 {"food name": "Crispy Calamari",
+                   "price" :"$16.00"},
+                 {"food name": "Tempura Spring Asparagus",
+                   "price" :"$10.00"},
+                 {"food name": "Crispy Brussels Sprouts",
+                   "price" :"$9.00"}
+                
+                ]
+    }

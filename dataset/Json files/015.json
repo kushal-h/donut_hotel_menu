@@ -1,0 +1,21 @@
+{
+   
+    "menu": [ {"food name": "Chicken And Waffles",
+                   "price" :"$7.95"}, 
+                 {"food name": "Chicken Tender Basket (4)",
+                   "price" :"$8.95"},
+                    
+                 {"food name": "Wing Lunch (3)",
+                   "price" :"$9.95"},
+                 {"food name": "Bologna Burger",
+                   "price" :"$7.95"},
+                 {"food name": "Fried Whiting Sandwich",
+                   "price" :"$9.95"},
+                 {"food name": "Pulled Pork Sandwich",
+                   "price" :"$8.95"},
+                 {"food name": "SYM Cheeseburger",
+                   "price" :"$7.95"}
+                 
+                 
+                ]
+    }

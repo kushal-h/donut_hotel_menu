@@ -1,0 +1,22 @@
+{
+   
+    "menu": [ {"food name": "Island Hot Chicken Sandwich",
+                   "price" :"$10.00"}, 
+                 {"food name": "Beyond Cheeseburger",
+                   "price" :"$14.00"},
+                    
+                 {"food name": "Grilled Fish Sandwich",
+                   "price" :"$14.00"},
+                 {"food name": "Shrimp Roll",
+                   "price" :"$13.00"},
+                 {"food name": "Isco Double Burger",
+                   "price" :"$12.00"},
+                 {"food name": "Calypso Salad",
+                   "price" :"$12.00"},
+                 {"food name": "Caribbean Rice & Pea Bowl",
+                   "price" :"$10.00"}
+                
+                 
+                 
+                ]
+    }

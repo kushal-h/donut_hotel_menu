@@ -1,0 +1,22 @@
+{
+    "hotel": "Tarrant's Cafe Downtown",
+    "menu": [ {"food name": "She Crab (Cup)",
+                   "price" :"$8.95"}, 
+                 {"food name": "Club Sandwich",
+                   "price" :"$14.95"},
+                    
+                 {"food name": "10' cheese",
+                   "price" :"$12.95"},
+                 {"food name": "Beet salad half",
+                   "price" :"$11.95"},
+                 {"food name": "Beet salad full",
+                   "price" :"15.95"},
+                 {"food name": "Chicken Caponata",
+                   "price" :"$22.95"},
+                 {"food name": "BBQ Pork Shanks",
+                   "price" :"$16.95"},
+                 {"food name": "White Seafood Pasta",
+                   "price" :"$23.95"}
+                
+                ]
+    }

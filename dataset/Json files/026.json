@@ -1,0 +1,25 @@
+{
+   
+    "menu": [ {"food name": "Cooper's Hawk Lux Sparkling",
+                   "price" :"$29.99"}, 
+                 {"food name": "Moscato",
+                   "price" :"$18.99"},
+                    
+                 {"food name": "Bubble Rosé",
+                   "price" :"$20.99"},
+                 {"food name": "Almond",
+                   "price" :"$18.99"},
+                 {"food name": "Prosecco",
+                   "price" :"$22.99"},
+                 {"food name": "Raspberry",
+                   "price" :"$18.99"},
+                 {"food name": "Blanc de Blanc",
+                   "price" :"$18.99"},
+                 {"food name": "Cooper's Hawk Scarletto",
+                   "price" :"$19.99"}
+                
+                
+                
+                 
+                ]
+    }

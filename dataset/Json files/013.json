@@ -1,0 +1,18 @@
+{
+   
+    "menu": [ {"food name": "Veg Dum Biryani",
+                   "price" :"$16.00"},
+                 {"food name": "Chicken Dum Biryani",
+                   "price" :"$18.00"},
+                    
+                 {"food name": "Egg Biryani",
+                   "price" :"$16.00"},
+                 {"food name": "Lamb Biryani",
+                   "price" :"$20.00"},
+                 {"food name": "Paneer Biryani",
+                   "price" :"$18.00"},
+                 {"food name": "Shrimp Biryani",
+                   "price" :"$20.00"}
+                
+                ]
+    }

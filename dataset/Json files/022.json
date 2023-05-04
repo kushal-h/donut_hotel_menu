@@ -1,0 +1,23 @@
+{
+   
+    "menu": [ {"food name": "Nachos",
+                   "price" :"$10.95"},
+                 {"food name": "Pork Belly Tostones",
+                   "price" :"$11.95"},
+                    
+                 {"food name": "Empanadas",
+                   "price" :"$8.95"},
+                 {"food name": "Carne Asada Fries",
+                   "price" :"$14.95"},
+                 {"food name": "Mexican Street Corn",
+                   "price" :"$5.95"},
+                 {"food name": "Casa Rice & Bean Bowl",
+                   "price" :"$10.95"},
+                 {"food name": "Street Corn Salad",
+                   "price" :"$9.95"},
+                 {"food name": "Avocado Caesar Salad",
+                   "price" :"$9.95"}
+                
+                 
+                ]
+    }
